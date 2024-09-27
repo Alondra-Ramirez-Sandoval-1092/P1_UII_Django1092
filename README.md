@@ -11,7 +11,7 @@ configuraciones basicas para trabajar con el framework de Django
 - 8 Seleccionar interprete de python --> presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar Django -->
-- 11 Creando el proyecto --> django-admin startproject web_project .
+- 11 Creando el proyecto --> django-admin startproject webconsultoriomedico .
 - 12 Realizar migracion al proyecto python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - Me trabajo el proyecto 
