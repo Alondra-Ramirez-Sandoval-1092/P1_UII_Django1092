@@ -1,6 +1,6 @@
 # P1_UII_Django1092
 configuraciones basicas para trabajar con el framework de Django
-## procedimineto
+## procedimiento
 - 1 Crear carpeta de trabajo Consultorio Medico1092
 - 2 Abrir con vs code la carpeta
 - 3 Abrir terminal de vs code
